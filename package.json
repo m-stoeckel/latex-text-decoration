@@ -1,0 +1,20 @@
+{
+  "name": "Latex Text Decoration",
+  "main": "./lib/latex-text-decoration",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "latex-text-decoration:mathit",
+      "latex-text-decoration:emph",
+      "latex-text-decoration:textbf"
+    ]
+  },
+  "repository": "https://github.com/aca13jmf/latex-text-decoration",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
