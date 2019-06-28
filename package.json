@@ -1,8 +1,8 @@
 {
-  "name": "Latex Text Decoration",
+  "name": "latex-text-decoration",
   "main": "./lib/latex-text-decoration",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A small package which provides keyboard shortcuts for latex text decorations",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
