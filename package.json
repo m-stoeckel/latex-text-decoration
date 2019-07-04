@@ -8,7 +8,8 @@
     "atom-workspace": [
       "latex-text-decoration:mathit",
       "latex-text-decoration:emph",
-      "latex-text-decoration:textbf"
+      "latex-text-decoration:textbf",
+      "latex-text-decoration:texttt"
     ]
   },
   "repository": "https://github.com/aca13jmf/latex-text-decoration",

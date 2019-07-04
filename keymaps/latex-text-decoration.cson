@@ -1,4 +1,5 @@
 "atom-text-editor[data-grammar='text tex latex']":
   "ctrl-alt-m": "latex-text-decoration:mathit",
   "ctrl-alt-e": "latex-text-decoration:emph",
-  "ctrl-alt-b": "latex-text-decoration:textbf"
+  "ctrl-alt-b": "latex-text-decoration:textbf",
+  "ctrl-alt-y": "latex-text-decoration:texttt"
