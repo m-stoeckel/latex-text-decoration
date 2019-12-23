@@ -12,7 +12,7 @@
       "latex-text-decoration:texttt"
     ]
   },
-  "repository": "https://github.com/aca13jmf/latex-text-decoration",
+  "repository": "https://github.com/jmafoster1/latex-text-decoration",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
