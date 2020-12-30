@@ -6,10 +6,17 @@
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
-      "latex-text-decoration:mathit",
-      "latex-text-decoration:emph",
       "latex-text-decoration:textbf",
-      "latex-text-decoration:texttt"
+      "latex-text-decoration:textit",
+      "latex-text-decoration:textsl",
+      "latex-text-decoration:textsc",
+      "latex-text-decoration:textsf",
+      "latex-text-decoration:texttt",
+      "latex-text-decoration:mathit",
+      "latex-text-decoration:mathbf",
+      "latex-text-decoration:textmd",
+      "latex-text-decoration:textlf",
+      "latex-text-decoration:emph"
     ]
   },
   "repository": "https://github.com/jmafoster1/latex-text-decoration",
